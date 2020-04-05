@@ -5,7 +5,7 @@
  */
 package practica1;
 
-//ejemplo para la github
+//dsd
 public class Nodo {
     private Termino termino;       //-->objeto monomio.
     private Nodo liga;     //-->Liga la cual permite unir un monomio
